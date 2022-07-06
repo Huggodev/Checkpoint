@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+   HEAD
 Token Hugo: hp_LqxpkFuYenSHyCFg8dJs4fR4YETWwT0Xbfe5
 =======
 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
-token Lisandro: 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
->>>>>>> 5e8064832245b9f1fec7646cfb0b123148b1ed8e
+token Lisandro: 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>
+                 5e8064832245b9f1fec7646cfb0b123148b1ed8e
